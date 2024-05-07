@@ -10,7 +10,7 @@
 - **Split dataset** : split the SentimentText and label into training/testing set.
 - **Feature extraction** : turn text into vector by tf-idf for machine learning task.
 - **Model Training** : using classifier algorithm to train a model such as SVM, Naive-Bayes and Logistic Regression.
-- **Model Evaluation** : The effectiveness of the model will be evaluated based on its **accuracy**, **precision** and **recall**.
+- **Model Evaluation** : The effectiveness of the model will be evaluated based on its **accuracy**, **precision**, **recall** and **F1-Score**.
 
 ## Dataset Description
 | __Variable__ | __Description__ |
